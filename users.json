@@ -1,0 +1,19 @@
+{
+  "100001": {
+    "password": "1234",
+    "bonus": 25,
+    "discount": 5,
+    "orders": [
+      "iPhone 13 — 1500 BYN — завершено",
+      "Стекло 3D — 25 BYN — в процессе"
+    ]
+  },
+  "100002": {
+    "password": "9999",
+    "bonus": 60,
+    "discount": 10,
+    "orders": [
+      "MacBook Air M2 — 3200 BYN — завершено"
+    ]
+  }
+}
